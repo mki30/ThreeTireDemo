@@ -1,0 +1,6 @@
+C:\Developement\ThreeTireDemo\ThreeTireDemo\bin\ThreeTireDemo.dll.config
+C:\Developement\ThreeTireDemo\ThreeTireDemo\bin\ThreeTireDemo.dll
+C:\Developement\ThreeTireDemo\ThreeTireDemo\bin\ThreeTireDemo.pdb
+C:\Developement\ThreeTireDemo\ThreeTireDemo\obj\Debug\ThreeTireDemo.dll
+C:\Developement\ThreeTireDemo\ThreeTireDemo\obj\Debug\ThreeTireDemo.pdb
+C:\Developement\ThreeTireDemo\ThreeTireDemo\obj\Debug\ThreeTireDemo.csprojResolveAssemblyReference.cache
